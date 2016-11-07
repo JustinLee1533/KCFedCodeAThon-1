@@ -13,3 +13,5 @@ The project aggregator is the primary feature of the application. This feature a
 The second aspect of the application is the user profile. This functions similarly to many other social media platforms but with a few differences that set it apart. Users can share their name, photo, skills, affiliations and a biography of themselves. Their profile will also display things like how many years they have been active, and past events or projects that the user has participated in through the application. We also wanted to make community improvement fun, so we added a badge system to introduce an element of gamification. For example, users can earn badges based on the number of projects they’ve completed or total hours spent volunteering. These badges will also be displayed on their profile.
 
 YouTube video is currently uploading!
+
+http://www.youtube.com/watch?v=taUfxiyY1a0
